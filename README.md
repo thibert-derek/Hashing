@@ -5,5 +5,5 @@ https://www.itechguides.com/how-to-install-ubuntu-on-windows-10/#:~:text=%20How%
 
 Make sure you have a script on your command prompt.
 
-Type in "cc lab10.c"
+Type in "cc l10.c"
 Then "./a.out"
